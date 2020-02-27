@@ -1,0 +1,51 @@
+
+
+  .wrapper{/*  border:2px solid black;
+          position: relative;
+            min-height: 100vh; */}
+
+
+
+  div{/*border:2px solid red;*/}
+
+
+  body { font-family: "Open Sans", sans-serif;
+         margin-left: 150px;
+         margin-right: 150px;}
+
+  a { text-decoration: none; color: black; text-decoration: none;}
+
+
+  .menu {
+    font-family: "Open Sans", sans-serif;
+
+
+    font-size: 13px;
+    padding-top: 20px;
+
+    font-weight: 600;
+    background-color: #F2F2F2;
+    word-spacing: 20px;
+
+
+    text-align: center;}
+
+
+
+
+    #footer {
+
+      position: relative;
+      top: 5px;
+
+      font-family: "Open Sans", sans-serif;
+      font-size: 12px;
+      color: #BDBDBD;
+
+    	text-align: center;
+
+    	/*
+
+    	background: blue;*/
+
+    }
